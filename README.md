@@ -4,7 +4,7 @@ projeto de um game sobre urna eletronica com nomes interativos da ti.
 
 Hospedagem na AWS: http://projetournaeletronica.s3-website-us-east-1.amazonaws.com/
 
-Hospedagem no Git: https://github.com/MatheusGrenfell/Urna-eletronica
+Hospedagem no Git: https://matheusgrenfell.github.io/Urna-eletronica/
 
 
 # Integrantes
